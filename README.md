@@ -13,3 +13,4 @@ And in the map section, the map of that city is displayed
 ![image](https://github.com/pranavpawar007/Wheather-app-js/assets/76638615/07cac1e9-6696-41aa-8434-0a09a84da15f)
 
 
+
