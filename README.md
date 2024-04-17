@@ -8,3 +8,8 @@ In the cities section, cities with the same name as that city are displayed all 
 
 And in the map section, the map of that city is displayed
 
+![image](https://github.com/pranavpawar007/Wheather-app-js/assets/76638615/bf6c000c-3d9b-477f-8329-10de43f93269)
+![image](https://github.com/pranavpawar007/Wheather-app-js/assets/76638615/b33762a5-008b-4708-8aec-da5e8e23a7c8)
+![image](https://github.com/pranavpawar007/Wheather-app-js/assets/76638615/07cac1e9-6696-41aa-8434-0a09a84da15f)
+
+
